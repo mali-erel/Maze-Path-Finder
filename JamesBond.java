@@ -14,7 +14,6 @@ import java.util.List;
 //----------------------------------------------------- 
 //Title: Homework I - James Bond
 //Author: Mehmet Ali EREL
-//ID: 11260275756
 //Section: 03
 //Assignment: 01
 //Description: The maze puzzle.
